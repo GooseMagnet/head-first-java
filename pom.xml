@@ -22,6 +22,7 @@
         <module>Chapter05</module>
         <module>Chapter06</module>
         <module>Chapter07</module>
+        <module>Chapter08</module>
     </modules>
 
 </project>
