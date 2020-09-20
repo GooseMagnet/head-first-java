@@ -1,0 +1,15 @@
+com/goosemagnet/chapter02/movie/MovieTestDrive.class
+com/goosemagnet/chapter02/guessgame/GuessGame.class
+com/goosemagnet/chapter02/drumkit/DrumKit.class
+com/goosemagnet/chapter02/dog/Dog.class
+com/goosemagnet/chapter02/guessgame/GameLauncher.class
+com/goosemagnet/chapter02/guessgame/Player.class
+com/goosemagnet/chapter02/movie/Movie.class
+com/goosemagnet/chapter02/echo/Echo.class
+com/goosemagnet/chapter02/echo/EchoTestDrive.class
+com/goosemagnet/chapter02/tapedeck/TapeDeckTestDrive.class
+com/goosemagnet/chapter02/dvdplayer/DVDPlayerTestDrive.class
+com/goosemagnet/chapter02/dvdplayer/DVDPlayer.class
+com/goosemagnet/chapter02/drumkit/DrumKitTestDrive.class
+com/goosemagnet/chapter02/dog/DogTestDrive.class
+com/goosemagnet/chapter02/tapedeck/TapeDeck.class
